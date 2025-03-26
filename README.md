@@ -42,4 +42,4 @@ O objetivo principal é criar uma conta bancária de forma simples e prática, o
 - **Java** (Programação Orientada a Objetos) 
 
 ### Autor:
-- **Eduarda Barros** 
+- **Eduarda Barros** ✨

@@ -10,7 +10,7 @@ Desenvolvido com carinho por:
 
 ## Descrição
 
-Este projeto foi criado para representar uma **conta bancária** simples utilizando **Programação Orientada a Objetos (POO)** em Java. A classe `ContaBancaria` foi desenvolvida com um construtor que permite inicializar a conta com um saldo inicial, além de possibilitar a realização de transações como depósitos e saques. ✨
+Este projeto foi criado para representar uma **conta bancária** simples utilizando **Programação Orientada a Objetos (POO)** em Java. A classe `ContaBancaria` foi desenvolvida com um construtor que permite inicializar a conta com um saldo inicial, além de possibilitar a realização de transações como depósitos e saques. 
 
 ## Objetivo
 
